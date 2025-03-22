@@ -1,17 +1,17 @@
 # 🛠️ React Admin Dashboard (Users & Products CRUD)
 ## 🚹 Users Section
 
- ![Users List](./output/user1Sample.png) 
- ![User Detail](./output/user2Sample.png) 
- ![Add User](./output/addUser.png) |
+ ![Users List](./output/user1Sample.jpg) 
+ ![User Detail](./output/user2Sample.jpg) 
+ ![Add User](./output/addUser.jpg) |
 
 ---
 
 ## 🛒 Products Section
 
- ![Products List](./output/product1Sample.png) 
- ![Product Detail](./output/product2Sample.png) 
- ![Add Product](./output/addProduct.png) |
+ ![Products List](./output/product1Sample.jpg) 
+ ![Product Detail](./output/product2Sample.jpg) 
+ ![Add Product](./output/addProduct.jpg) |
 
 
 
